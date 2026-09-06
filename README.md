@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 3D ASCII Wordmark Header Banner -->
-<img src="./assets/final-pallavi.svg" alt="3D ASCII Wordmark: PALLAVI JAIN" width="100%" />
+<img src="https://raw.githubusercontent.com/pallavithegod/pallavithegod/main/assets/final-pallavi.svg" alt="3D ASCII Wordmark: PALLAVI JAIN" width="100%" />
 
 <br/>
 
@@ -12,7 +12,6 @@
 
 <br/>
 
-<!-- Quick Telemetry & Status Badges -->
 <a href="https://github.com/pallavithegod">
   <img src="https://komarev.com/ghpvc/?username=pallavithegod&style=flat-square&color=blueviolet&label=profile+views" alt="Profile Views" />
 </a>
@@ -29,71 +28,43 @@
 
 ---
 
-## 🧬 System.profile()
-
-<p align="right">
-  <img align="right" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="300" alt="Terminal Coding Hacker GIF" />
-</p>
+## ⚡ runtime.spec()
 
 ```python
-pallavi = {
-  "role":      "Backend & AI-Agent Engineer",
+runtime = {
+  "engineer":  "Pallavi Jain",
+  "domain":    "Backend Infrastructure & Multi-Agent Pipelines",
   "location":  "Delhi, India 🇮🇳",
-  "focus":     ["Autonomous Agents", "Credential Vaults", "Self-Healing Schedulers"],
-  "stack":     ["Node.js", "FastAPI", "Azure ACA", "AWS", "Docker", "MySQL"],
-  "obsession": "Resilient systems that survive real traffic, zero demo fluff",
-  "online":    "24/7 when the architecture locks in ⚡",
-  "endgame":   "infrastructure that detects and fixes its own outages",
+  "stack":     ["Node.js", "FastAPI", "Docker", "AWS", "Azure ACA", "MySQL"],
+  "motto":     "Ship resilient systems that survive real traffic, zero demo fluff",
+  "telemetry": "364+ commits / yr • 25 public repos • 0 downtime",
+  "status":    "open to backend & AI-agent roles 🚀",
 }
 ```
 
 ```text
-┌─── [SYS_DIAGNOSTIC] ──────────────────────────────────────────────┐
-│  Name        : Pallavi Jain                                       │
-│  Superpower  : Turning chaotic edge-cases into deterministic APIs │
-│  Nemesis     : Race conditions & unhandled promise rejections     │
-│  Weakness    : Architecting credential vaults at 2am              │
-│  Strength    : Making distributed backends survive production     │
-│  Telemetry   : 364+ commits / yr • 25 public repos • 0 downtime   │
-└───────────────────────────────────────────────────────────────────┘
+┌─── [SYS_DIAGNOSTIC] ──────────────────────────────────────────────────────────┐
+│  Superpower  : Turning chaotic distributed edge-cases into deterministic APIs │
+│  Nemesis     : Race conditions & unhandled promise rejections                 │
+│  Philosophy  : If it fails under real traffic, it's a demo, not a backend     │
+└───────────────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## 🛠️ Full Tech Arsenal
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-<p><strong>🧠 Agentic &amp; Orchestration</strong></p>
-<a href="https://github.com/pallavithegod">
-  <img src="https://img.shields.io/badge/Multi--Agent_Systems-00F5FF?style=for-the-badge&logo=openai&logoColor=black" alt="Multi-Agent Systems" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Tool_Calling_APIs-A855F7?style=for-the-badge&logo=fastapi&logoColor=white" alt="Tool Calling" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/RAG_Pipelines-FF006A?style=for-the-badge&logoColor=white" alt="RAG Pipelines" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Evidence_Scoring-38BDF8?style=for-the-badge&logoColor=white" alt="Evidence Scoring" />
-</a>
-
-<br/><br/>
-
-<p><strong>🔧 Languages &amp; Backend Frameworks</strong></p>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,express,fastapi,react,nextjs&theme=dark&perline=8" alt="Backend Stack" />
-</a>
-
-<br/><br/>
-
-<p><strong>☁️ Cloud, Infra &amp; Databases</strong></p>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,firebase,mysql,mongodb,sqlite,git&theme=dark&perline=8" alt="Cloud and Databases" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,express,fastapi,docker,aws,azure,mysql,mongodb,git&theme=dark&perline=12" alt="Tech Stack" />
 </a>
 
 </div>
 
 ---
 
-## ⚡ Featured Systems *(what I actually ship)*
+## ⚡ Featured Systems
 
 <table align="center" width="100%">
 <tr>
@@ -145,85 +116,19 @@ pallavi = {
 
 ---
 
-## 📊 Numbers Don't Lie
-
-<div align="center">
-
-<a href="https://github.com/pallavithegod">
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pallavithegod&theme=2077" alt="Stats 2077" />
-</a>
-&nbsp;
-<a href="https://github.com/pallavithegod">
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pallavithegod&theme=2077" alt="Repos Per Lang" />
-</a>
-&nbsp;
-<a href="https://github.com/pallavithegod">
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pallavithegod&theme=2077" alt="Most Commit Lang" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/pallavithegod">
-  <img width="65%" src="https://github-readme-streak-stats-eight.vercel.app?user=pallavithegod&theme=radical&hide_border=false&border_radius=12&ring=a855f7&fire=ff006a&currStreakLabel=00f5ff" alt="GitHub Streak" />
-</a>
-
-</div>
-
----
-
 ## 📡 Live Contribution Telemetry
 
-<!-- Rare, Unique Animated Terminal Sonar & Oscilloscope Contribution Visualizer -->
 <p align="center">
-  <img src="./assets/terminal-contributions.svg" alt="Terminal Activity Telemetry &amp; Contribution Radar" width="100%" />
+  <img src="https://raw.githubusercontent.com/pallavithegod/pallavithegod/main/assets/terminal-contributions.svg" alt="Terminal Activity Telemetry &amp; Contribution Radar" width="100%" />
+</p>
+
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats-eight.vercel.app?user=pallavithegod&theme=radical&hide_border=false&border_radius=12&ring=a855f7&fire=ff006a&currStreakLabel=00f5ff" alt="GitHub Streak" />
 </p>
 
 ---
 
-## 🧠 Currently Obsessed With
-
-<div align="center">
-
-| Icon | Topic | Why it matters to me |
-| :---: | :--- | :--- |
-| 🕸️ | **Multi-Agent Orchestration** | Agents that spawn sub-tasks, self-diagnose, and converge deterministically |
-| 🔐 | **Zero-Knowledge Vaults** | Per-user AES-256-GCM encryption so secrets stay secret even under breach |
-| 🔄 | **Self-Healing Infrastructure** | Schedulers that catch failed production builds and remediate without human alerts |
-| ⚡ | **Strict ACID Concurrency** | Row-level locking & isolation so not a single cent goes missing under race conditions |
-| 🔌 | **Tool-Calling Protocols** | Giving LLMs verifiable execution power over cloud containers and databases |
-
-</div>
-
----
-
-## 💭 Hot Takes
-
-<div align="center">
-
-> *"Most devs use AI as a search engine. I build the infrastructure so AI can run safe, verified operations."*
-
-> *"Your system isn't production-ready until it handles third-party API 500s without cascading crashes."*
-
-> *"A well-indexed SQL query with explicit row locks beats adding more RAM to a poorly architected backend every single time."*
-
-<br/>
-
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║  unpopular opinion: 5 fragile AI demos with flashy UIs will  ║
-║  never beat 1 bulletproof backend that handles auth, retries,║
-║  and real production traffic without breaking a sweat.       ║
-║                                                              ║
-║  — Pallavi, inspecting a container trace at 2am              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
-
-## 🌐 Let's Link Up
+## 🌐 Let's Connect
 
 <div align="center">
 
@@ -237,12 +142,6 @@ pallavi = {
 &nbsp;
 <a href="https://pallavijain.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-00F5FF?style=for-the-badge&logo=vercel&logoColor=black" height="36" alt="Portfolio" />
-</a>
-
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/pallavii-">
-  <img src="https://img.shields.io/badge/Got_a_backend_or_agent_challenge%3F-Let's_build_it_🚀-a855f7?style=for-the-badge" height="34" alt="Let's Build" />
 </a>
 
 <br/><br/>
