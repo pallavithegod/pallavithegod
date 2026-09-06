@@ -7,38 +7,47 @@
 
 <!-- Colored Terminal Typing Prompt -->
 <a href="https://github.com/pallavithegod">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=21&pause=800&color=00F5FF&center=true&vCenter=true&width=750&height=48&lines=%E2%9E%9C+pallavithegod%40github%3A~%24+whoami;%E2%9A%A1+Backend+%26+AI-Agent+Architect;%F0%9F%9B%A1%EF%B8%8F+Building+Zero-Downtime+Infrastructure+Layer;%F0%9F%9A%80+Shipping+from+Delhi%2C+India" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=21&pause=800&color=00F5FF&center=true&vCenter=true&width=750&height=48&lines=pallavithegod%40github%3A~%24+whoami;%5BROLE%5D+Backend+%26+AI-Agent+Architect;%5BCORE%5D+Building+Zero-Downtime+Infrastructure+Layer;%5BORIGIN%5D+Shipping+from+Delhi%2C+India" alt="Typing SVG" />
 </a>
 
 <br/>
 
+<!-- Terminal Status Telemetry Cards -->
 <a href="https://github.com/pallavithegod">
-  <img src="https://komarev.com/ghpvc/?username=pallavithegod&style=flat-square&color=blueviolet&label=profile+views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=pallavithegod&style=flat-square&color=0284c7&label=VIEWS" alt="Profile Views" />
 </a>
 &nbsp;
 <a href="https://github.com/pallavithegod?tab=followers">
-  <img src="https://img.shields.io/github/followers/pallavithegod?style=flat-square&color=a855f7&logo=github&label=followers" alt="Followers" />
+  <img src="https://img.shields.io/github/followers/pallavithegod?style=flat-square&color=7c3aed&labelColor=0d1117&logo=github&label=FOLLOWERS" alt="Followers" />
 </a>
 &nbsp;
-<img src="https://img.shields.io/badge/open_to-backend_%26_agent_roles_🤝-00f5ff?style=flat-square" alt="Open to Roles" />
+<a href="mailto:jainpallavi.delhi@gmail.com">
+  <img src="https://img.shields.io/badge/STATUS-OPEN_FOR_ROLES-10b981?style=flat-square&labelColor=0d1117" alt="Status: Open for Roles" />
+</a>
 &nbsp;
-<img src="https://img.shields.io/badge/status-shipping_resilient_infra_🤖-ff006a?style=flat-square" alt="Status" />
+<a href="https://github.com/pallavithegod">
+  <img src="https://img.shields.io/badge/FOCUS-BACKEND_%26_AGENTS-0284c7?style=flat-square&labelColor=0d1117" alt="Focus: Backend &amp; Agents" />
+</a>
+&nbsp;
+<a href="https://github.com/pallavithegod">
+  <img src="https://img.shields.io/badge/LOCATION-DELHI,_IN-334155?style=flat-square&labelColor=0d1117" alt="Location: Delhi, IN" />
+</a>
 
 </div>
 
 ---
 
-## ⚡ runtime.spec()
+## runtime.spec()
 
 ```python
 runtime = {
   "engineer":  "Pallavi Jain",
   "domain":    "Backend Infrastructure & Multi-Agent Pipelines",
-  "location":  "Delhi, India 🇮🇳",
+  "location":  "Delhi, India",
   "stack":     ["Node.js", "FastAPI", "Docker", "AWS", "Azure ACA", "MySQL"],
   "motto":     "Ship resilient systems that survive real traffic, zero demo fluff",
-  "telemetry": "364+ commits / yr • 25 public repos • 0 downtime",
-  "status":    "open to backend & AI-agent roles 🚀",
+  "telemetry": "373 commits / yr • 25 public repos • 0 downtime",
+  "status":    "open to backend & AI-agent roles",
 }
 ```
 
@@ -52,7 +61,7 @@ runtime = {
 
 ---
 
-## 🛠️ Tech Arsenal
+## Tech Arsenal
 
 <div align="center">
 
@@ -64,13 +73,13 @@ runtime = {
 
 ---
 
-## ⚡ Featured Systems
+## Featured Systems
 
 <table align="center" width="100%">
 <tr>
 <td width="33%" valign="top">
 
-### 🔒 [RecallOps](https://github.com/pallavithegod/ima-agent-backend-node)
+### [RecallOps](https://github.com/pallavithegod/ima-agent-backend-node)
 > **Autonomous Deployment & Vault Engine**
 - Credential vault encrypting user tokens with **AES-256-GCM** before persistent storage.
 - Auto-polls GitHub, Vercel & Render; diagnoses failed traces and triggers self-healing tasks.
@@ -81,7 +90,7 @@ runtime = {
 </td>
 <td width="33%" valign="top">
 
-### 🤖 [Research Agent](https://github.com/pallavithegod/research-agent)
+### [Research Agent](https://github.com/pallavithegod/research-agent)
 > **x402-Native Evidence Pipeline**
 - **Quick**, **Deep**, and **Compare** modes with source-policy enforcement and automated evidence confidence scoring.
 - Asynchronous FastAPI backend paired with analytical Next.js dashboard.
@@ -92,7 +101,7 @@ runtime = {
 </td>
 <td width="33%" valign="top">
 
-### 🏦 [CommitVault](https://github.com/pallavithegod/CommitVault-Backend)
+### [CommitVault](https://github.com/pallavithegod/CommitVault-Backend)
 > **High-Concurrency Banking Server**
 - Enterprise SQL integrity: correlated subqueries, atomic balance transfer stored procedures.
 - Row-level locking inside strict **ACID transactions** with automated account audit triggers.
@@ -116,19 +125,15 @@ runtime = {
 
 ---
 
-## 📡 Live Contribution Telemetry
+<!-- ## Live Contribution Telemetry
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pallavithegod/pallavithegod/main/assets/terminal-contributions.svg?v=2" alt="Terminal Activity Telemetry &amp; Contribution Radar" width="100%" />
-</p>
-
-<p align="center">
-  <img width="60%" src="https://github-readme-streak-stats-eight.vercel.app?user=pallavithegod&theme=radical&hide_border=false&border_radius=12&ring=a855f7&fire=ff006a&currStreakLabel=00f5ff" alt="GitHub Streak" />
-</p>
+  <img src="https://raw.githubusercontent.com/pallavithegod/pallavithegod/main/assets/terminal-contributions.svg?v=3" alt="Terminal Activity Telemetry &amp; Contribution Radar" width="100%" />
+</p> -->
 
 ---
 
-## 🌐 Let's Connect
+## Let's Connect
 
 <div align="center">
 
@@ -154,18 +159,6 @@ runtime = {
   you reached the bottom of the telemetry stream.
   now go ship something that survives real load.
   (and yes, your database transactions probably need row-level locking).
-```
-
-```text
-[SESSION_TERMINATED] Connection closed by remote host.
-pallavithegod@github:~$ exit 0
-logout
-Saving session...
-...copying shared history...
-...saving history...truncating history files...
-...completed.
-
-[Process completed]
 ```
 
 <br/>
