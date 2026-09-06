@@ -5,174 +5,254 @@
 
 <br/>
 
-<sub><code>pallavithegod@github</code>:<code>~$</code> whoami</sub>
+<!-- Colored Terminal Typing Prompt -->
+<a href="https://github.com/pallavithegod">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=21&pause=800&color=00F5FF&center=true&vCenter=true&width=750&height=48&lines=%E2%9E%9C+pallavithegod%40github%3A~%24+whoami;%E2%9A%A1+Backend+%26+AI-Agent+Architect;%F0%9F%9B%A1%EF%B8%8F+Building+Zero-Downtime+Infrastructure+Layer;%F0%9F%9A%80+Shipping+from+Delhi%2C+India" alt="Typing SVG" />
+</a>
 
-### **Backend & AI-Agent Engineer**
-Building the infrastructure layer behind automation: auth, credential vaults, deployment monitoring, and multi-agent pipelines.
+<br/>
 
-📍 **Delhi, India** &nbsp;·&nbsp; 🌐 [Portfolio](https://pallavijain.vercel.app) &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/pallavii-) &nbsp;·&nbsp; 🐦 [X / Twitter](https://x.com/Pallavi_jain06)
+<!-- Quick Telemetry & Status Badges -->
+<a href="https://github.com/pallavithegod">
+  <img src="https://komarev.com/ghpvc/?username=pallavithegod&style=flat-square&color=blueviolet&label=profile+views" alt="Profile Views" />
+</a>
+&nbsp;
+<a href="https://github.com/pallavithegod?tab=followers">
+  <img src="https://img.shields.io/github/followers/pallavithegod?style=flat-square&color=a855f7&logo=github&label=followers" alt="Followers" />
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/open_to-backend_%26_agent_roles_🤝-00f5ff?style=flat-square" alt="Open to Roles" />
+&nbsp;
+<img src="https://img.shields.io/badge/status-shipping_resilient_infra_🤖-ff006a?style=flat-square" alt="Status" />
 
 </div>
 
+---
+
+## 🧬 System.profile()
+
+<p align="right">
+  <img align="right" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="300" alt="Terminal Coding Hacker GIF" />
+</p>
+
+```python
+pallavi = {
+  "role":      "Backend & AI-Agent Engineer",
+  "location":  "Delhi, India 🇮🇳",
+  "focus":     ["Autonomous Agents", "Credential Vaults", "Self-Healing Schedulers"],
+  "stack":     ["Node.js", "FastAPI", "Azure ACA", "AWS", "Docker", "MySQL"],
+  "obsession": "Resilient systems that survive real traffic, zero demo fluff",
+  "online":    "24/7 when the architecture locks in ⚡",
+  "endgame":   "infrastructure that detects and fixes its own outages",
+}
+```
+
+```text
+┌─── [SYS_DIAGNOSTIC] ──────────────────────────────────────────────┐
+│  Name        : Pallavi Jain                                       │
+│  Superpower  : Turning chaotic edge-cases into deterministic APIs │
+│  Nemesis     : Race conditions & unhandled promise rejections     │
+│  Weakness    : Architecting credential vaults at 2am              │
+│  Strength    : Making distributed backends survive production     │
+│  Telemetry   : 364+ commits / yr • 25 public repos • 0 downtime   │
+└───────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 🛠️ Full Tech Arsenal
+
+<div align="center">
+
+<p><strong>🧠 Agentic &amp; Orchestration</strong></p>
+<a href="https://github.com/pallavithegod">
+  <img src="https://img.shields.io/badge/Multi--Agent_Systems-00F5FF?style=for-the-badge&logo=openai&logoColor=black" alt="Multi-Agent Systems" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Tool_Calling_APIs-A855F7?style=for-the-badge&logo=fastapi&logoColor=white" alt="Tool Calling" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/RAG_Pipelines-FF006A?style=for-the-badge&logoColor=white" alt="RAG Pipelines" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Evidence_Scoring-38BDF8?style=for-the-badge&logoColor=white" alt="Evidence Scoring" />
+</a>
+
+<br/><br/>
+
+<p><strong>🔧 Languages &amp; Backend Frameworks</strong></p>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,express,fastapi,react,nextjs&theme=dark&perline=8" alt="Backend Stack" />
+</a>
+
+<br/><br/>
+
+<p><strong>☁️ Cloud, Infra &amp; Databases</strong></p>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,firebase,mysql,mongodb,sqlite,git&theme=dark&perline=8" alt="Cloud and Databases" />
+</a>
+
+</div>
+
+---
+
+## ⚡ Featured Systems *(what I actually ship)*
+
+<table align="center" width="100%">
+<tr>
+<td width="33%" valign="top">
+
+### 🔒 [RecallOps](https://github.com/pallavithegod/ima-agent-backend-node)
+> **Autonomous Deployment & Vault Engine**
+- Credential vault encrypting user tokens with **AES-256-GCM** before persistent storage.
+- Auto-polls GitHub, Vercel & Render; diagnoses failed traces and triggers self-healing tasks.
 <br/>
 
-```text
-pallavithegod@github:~$ fastfetch
-```
+`Node.js` `Express` `Firebase` `Azure`
 
-```text
-pallavithegod@github
---------------------
-. OS: ................................ GitHub Profile / Linux x86_64
-. Status: ............................ 364 contributions this year
-. Host: .............................. Open source community
-. Kernel: ............................ Public GitHub profile (pallavithegod)
-. IDE: ............................... VS Code, Neovim, Terminal
-. Languages.Programming: ............ JavaScript (ESNext), TypeScript, Python 3.12, SQL
-. Languages.Real: .................... English, Hindi
-. Architecture: ...................... Multi-Agent Pipelines, Event Loops, ACID Stores, Microservices
+</td>
+<td width="33%" valign="top">
 
-- Contact -------------------------------------------------------------
-. GitHub: ............................ github.com/pallavithegod
-. Website: ........................... pallavijain.vercel.app
-. LinkedIn: .......................... linkedin.com/in/pallavii-
-. Twitter / X: ....................... @Pallavi_jain06
-. Location: .......................... Delhi, India
-
-- GitHub Stats & Telemetry --------------------------------------------
-. Repos: ............................. 25 public repositories
-. Stars Earned: ...................... 22+ stars
-. Annual Contributions: .............. 364 units
-. Current Focus: ..................... Scalable Backend Systems & Autonomous AI-Agent Workflows
-. Role Status: ....................... Open to Backend / AI-Agent Engineering roles
-
-Palette:   ███   ███   ███   ███   ███   ███   ███   ███
-```
-
+### 🤖 [Research Agent](https://github.com/pallavithegod/research-agent)
+> **x402-Native Evidence Pipeline**
+- **Quick**, **Deep**, and **Compare** modes with source-policy enforcement and automated evidence confidence scoring.
+- Asynchronous FastAPI backend paired with analytical Next.js dashboard.
 <br/>
 
-```text
-pallavithegod@github:~$ cat about.md
-```
+`Next.js` `FastAPI` `Azure ACA` `MongoDB`
 
-I work close to the systems layer — engineering services that manage credentials, monitor deployments, and coordinate autonomous AI agents, rather than just calling an API and rendering the result.
+</td>
+<td width="33%" valign="top">
 
-- **Resilient Architectures**: I'd rather ship one robust system that holds up under real production traffic than five fragile demos that fail under load.
-- **Backend Core**: Deeply comfortable across Node.js/Express and Python/FastAPI architectures, designing secure APIs, schedulers, and fault-tolerant background queues.
-- **Cloud & Orchestration**: Experience shipping and orchestrating production stacks across both **AWS** and **Azure** container environments.
-
+### 🏦 [CommitVault](https://github.com/pallavithegod/CommitVault-Backend)
+> **High-Concurrency Banking Server**
+- Enterprise SQL integrity: correlated subqueries, atomic balance transfer stored procedures.
+- Row-level locking inside strict **ACID transactions** with automated account audit triggers.
 <br/>
 
-```text
-pallavithegod@github:~$ ls skills/
-```
+`Node.js` `Express` `MySQL` `AWS`
 
-<table>
-<tr>
-  <td width="20%"><b>Languages</b></td>
-  <td>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  </td>
-</tr>
-<tr>
-  <td width="20%"><b>Backend &amp; Agents</b></td>
-  <td>
-    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-    <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
-    <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000" alt="React" />
-    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
-  </td>
-</tr>
-<tr>
-  <td width="20%"><b>Cloud &amp; Infra</b></td>
-  <td>
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900" alt="AWS" />
-    <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure" />
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=000" alt="Firebase" />
-  </td>
-</tr>
-<tr>
-  <td width="20%"><b>Data &amp; Persistence</b></td>
-  <td>
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-    <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
-  </td>
+</td>
 </tr>
 </table>
 
-<br/>
+<div align="center">
 
-```text
-pallavithegod@github:~$ ls projects/ --sort=impact
-```
-
-### ⚡ Featured Systems & Core Builds
-
-#### 🔹 [RecallOps — Node Backend](https://github.com/pallavithegod/ima-agent-backend-node)
-> Autonomous deployment monitoring and credential management engine.
-- Auth vault with provider tokens encrypted per user using **AES-256-GCM** before persistent storage.
-- Monitoring scheduler that polls GitHub, Vercel, and Render, automatically detects failed builds, diagnoses error traces, and triggers self-healing remediation jobs.
-- **Stack**: `Node.js` &bull; `Express` &bull; `Firebase` &bull; `SQLite` &bull; `Azure App Service`
-
-#### 🔹 [Multi-Step Research Agent](https://github.com/pallavithegod/research-agent)
-> An x402-native deep research agent with evidence verification pipelines.
-- Supports **Quick**, **Deep**, and **Compare** investigation modes with rigorous source-policy enforcement and automated evidence-quality confidence scoring on generated reports.
-- Full-stack microservices architecture: Next.js analytical dashboard paired with an asynchronous FastAPI engine.
-- **Stack**: `Next.js` &bull; `FastAPI` &bull; `Azure Container Apps` &bull; `MongoDB Atlas` &bull; `Clerk`
-
-#### 🔹 [CommitVault — Banking App Backend](https://github.com/pallavithegod/CommitVault-Backend)
-> Enterprise-grade relational database architecture & core transactional banking server.
-- Demonstrates enterprise SQL integrity: views with correlated subqueries, stored procedures for atomic balance transfers, row-level locking inside strict ACID transactions, and automated audit triggers on account modifications.
-- **Stack**: `Node.js` &bull; `Express` &bull; `MySQL` &bull; `AWS`
-
-<br/>
-
-#### 🤝 Selected Collaborations & Open Source
-
-| Project | Description | Role / Stack |
+| Collaboration | What it does | Stack |
 | :--- | :--- | :--- |
-| [DebtAI](https://github.com/garvit-arora/debtAI) | AI-driven financial intelligence dashboard — debt/expense tracking with an Azure OpenAI assistant and multilingual support | Collaborator &bull; `JavaScript` `Azure OpenAI` |
-| [CoverFi](https://github.com/CoverFI-space) | Open-source Stellar/Soroban infrastructure for safer stablecoin payments and reserve-backed protection | Contributor &bull; `Rust` `Soroban` `Web3` |
-| [Snake Noir](https://github.com/pallavithegod/Snake-Noir) | Classic arcade game rebuilt with custom mechanics, audio synthesis, and persistent score caching &bull; [Live Demo](https://snakenoir.netlify.app) | Solo Build &bull; `JavaScript` `HTML5 Canvas` |
+| [DebtAI](https://github.com/garvit-arora/debtAI) | Financial intelligence dashboard with Azure OpenAI assistant & expense tracking | `JavaScript` `Azure OpenAI` |
+| [CoverFi](https://github.com/CoverFI-space) | Stellar/Soroban smart contract infra for reserve-backed stablecoin payments | `Rust` `Soroban` `Web3` |
+| [Snake Noir](https://github.com/pallavithegod/Snake-Noir) | Arcade classic rebuilt with audio synthesis, local caching & smooth canvas | `JavaScript` `Canvas` |
 
-<br/>
+</div>
 
-```text
-pallavithegod@github:~$ ./telemetry --stream activity --pulse continuous
-```
+---
+
+## 📊 Numbers Don't Lie
+
+<div align="center">
+
+<a href="https://github.com/pallavithegod">
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pallavithegod&theme=2077" alt="Stats 2077" />
+</a>
+&nbsp;
+<a href="https://github.com/pallavithegod">
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pallavithegod&theme=2077" alt="Repos Per Lang" />
+</a>
+&nbsp;
+<a href="https://github.com/pallavithegod">
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pallavithegod&theme=2077" alt="Most Commit Lang" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/pallavithegod">
+  <img width="65%" src="https://github-readme-streak-stats-eight.vercel.app?user=pallavithegod&theme=radical&hide_border=false&border_radius=12&ring=a855f7&fire=ff006a&currStreakLabel=00f5ff" alt="GitHub Streak" />
+</a>
+
+</div>
+
+---
+
+## 📡 Live Contribution Telemetry
 
 <!-- Rare, Unique Animated Terminal Sonar & Oscilloscope Contribution Visualizer -->
 <p align="center">
   <img src="./assets/terminal-contributions.svg" alt="Terminal Activity Telemetry &amp; Contribution Radar" width="100%" />
 </p>
 
+---
+
+## 🧠 Currently Obsessed With
+
+<div align="center">
+
+| Icon | Topic | Why it matters to me |
+| :---: | :--- | :--- |
+| 🕸️ | **Multi-Agent Orchestration** | Agents that spawn sub-tasks, self-diagnose, and converge deterministically |
+| 🔐 | **Zero-Knowledge Vaults** | Per-user AES-256-GCM encryption so secrets stay secret even under breach |
+| 🔄 | **Self-Healing Infrastructure** | Schedulers that catch failed production builds and remediate without human alerts |
+| ⚡ | **Strict ACID Concurrency** | Row-level locking & isolation so not a single cent goes missing under race conditions |
+| 🔌 | **Tool-Calling Protocols** | Giving LLMs verifiable execution power over cloud containers and databases |
+
+</div>
+
+---
+
+## 💭 Hot Takes
+
+<div align="center">
+
+> *"Most devs use AI as a search engine. I build the infrastructure so AI can run safe, verified operations."*
+
+> *"Your system isn't production-ready until it handles third-party API 500s without cascading crashes."*
+
+> *"A well-indexed SQL query with explicit row locks beats adding more RAM to a poorly architected backend every single time."*
+
 <br/>
 
 ```text
-pallavithegod@github:~$ curl -s api.pallavi/contact
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║  unpopular opinion: 5 fragile AI demos with flashy UIs will  ║
+║  never beat 1 bulletproof backend that handles auth, retries,║
+║  and real production traffic without breaking a sweat.       ║
+║                                                              ║
+║  — Pallavi, inspecting a container trace at 2am              ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
-```json
-{
-  "engineer": "Pallavi Jain",
-  "handle": "pallavithegod",
-  "portfolio": "https://pallavijain.vercel.app",
-  "linkedin": "https://linkedin.com/in/pallavii-",
-  "twitter": "https://x.com/Pallavi_jain06",
-  "status": "open to backend / AI-agent engineering roles",
-  "availability": "immediate"
-}
-```
+</div>
 
-<br/>
+---
+
+## 🌐 Let's Link Up
 
 <div align="center">
-  <sub><code>pallavithegod@github:~$</code> <span>&nbsp;▍</span></sub>
+
+<a href="https://www.linkedin.com/in/pallavii-">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="36" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="https://x.com/Pallavi_jain06">
+  <img src="https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=for-the-badge&logo=x&logoColor=white" height="36" alt="Twitter / X" />
+</a>
+&nbsp;
+<a href="https://pallavijain.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-00F5FF?style=for-the-badge&logo=vercel&logoColor=black" height="36" alt="Portfolio" />
+</a>
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/pallavii-">
+  <img src="https://img.shields.io/badge/Got_a_backend_or_agent_challenge%3F-Let's_build_it_🚀-a855f7?style=for-the-badge" height="34" alt="Let's Build" />
+</a>
+
+<br/><br/>
+
+```text
+  you reached the bottom of the telemetry stream.
+  now go ship something that survives real load.
+  (and yes, your database transactions probably need row-level locking).
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff006a,40:6d00a8,70:090979,100:020024&height=120&section=footer&reversal=true&animation=fadeIn" width="100%" alt="Capsule Render Footer" />
+
 </div>
