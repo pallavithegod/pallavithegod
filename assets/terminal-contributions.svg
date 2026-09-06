@@ -134,8 +134,8 @@
     <rect width="634" height="216" rx="6" fill="#090d14" stroke="#1d2a3d" stroke-width="1"/>
 
     <!-- Header bar within visualizer -->
-    <text x="18" y="24" fill="#94a3b8" class="mono" font-size="10" font-weight="600">CONTRIBUTION DENSITY MATRIX &bull; 52 WEEKS ACTIVE</text>
-    <text x="490" y="24" fill="#00ffcc" class="mono" font-size="9.5" font-weight="500">RADAR ACTIVE &bull; 60 FPS</text>
+    <text x="18" y="24" fill="#94a3b8" class="mono" font-size="10" font-weight="600">CONTRIBUTION DENSITY MATRIX &#8226; 52 WEEKS ACTIVE</text>
+    <text x="490" y="24" fill="#00ffcc" class="mono" font-size="9.5" font-weight="500">RADAR ACTIVE &#8226; 60 FPS</text>
     <line x1="18" y1="33" x2="616" y2="33" stroke="#182334" stroke-width="1"/>
 
     <!-- Day labels -->
@@ -528,7 +528,7 @@
 
     <!-- Bottom Pulse Waveform / Rhythm Equalizer -->
     <g transform="translate(18, 140)">
-      <text x="0" y="12" fill="#64748b" class="mono" font-size="9" font-weight="600">COMMIT DISPATCH FREQUENCY &bull; REALTIME OSCILLOSCOPE</text>
+      <text x="0" y="12" fill="#64748b" class="mono" font-size="9" font-weight="600">COMMIT DISPATCH FREQUENCY &#8226; REALTIME OSCILLOSCOPE</text>
       
       <!-- Oscilloscope Baseline & Frame -->
       <line x1="0" y1="36" x2="598" y2="36" stroke="#162234" stroke-width="1"/>

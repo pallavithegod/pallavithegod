@@ -119,7 +119,7 @@ runtime = {
 ## 📡 Live Contribution Telemetry
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pallavithegod/pallavithegod/main/assets/terminal-contributions.svg" alt="Terminal Activity Telemetry &amp; Contribution Radar" width="100%" />
+  <img src="https://raw.githubusercontent.com/pallavithegod/pallavithegod/main/assets/terminal-contributions.svg?v=2" alt="Terminal Activity Telemetry &amp; Contribution Radar" width="100%" />
 </p>
 
 <p align="center">
@@ -132,6 +132,10 @@ runtime = {
 
 <div align="center">
 
+<a href="mailto:jainpallavi.delhi@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="36" alt="Gmail" />
+</a>
+&nbsp;
 <a href="https://www.linkedin.com/in/pallavii-">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="36" alt="LinkedIn" />
 </a>
@@ -152,6 +156,20 @@ runtime = {
   (and yes, your database transactions probably need row-level locking).
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff006a,40:6d00a8,70:090979,100:020024&height=120&section=footer&reversal=true&animation=fadeIn" width="100%" alt="Capsule Render Footer" />
+```text
+[SESSION_TERMINATED] Connection closed by remote host.
+pallavithegod@github:~$ exit 0
+logout
+Saving session...
+...copying shared history...
+...saving history...truncating history files...
+...completed.
+
+[Process completed]
+```
+
+<br/>
+
+<sub><code>pallavithegod@github:~$</code> <code>echo "EOF"</code> <span>&nbsp;▍</span></sub>
 
 </div>
