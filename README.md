@@ -10,7 +10,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=21&pause=800&color=00F5FF&center=true&vCenter=true&width=750&height=48&lines=pallavithegod%40github%3A~%24+whoami;%5BROLE%5D+Backend+%26+AI-Agent+Architect;%5BCORE%5D+Building+Zero-Downtime+Infrastructure+Layer;%5BORIGIN%5D+Shipping+from+Delhi%2C+India" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
 <!-- Terminal Status Telemetry Cards -->
 <a href="https://github.com/pallavithegod">
@@ -136,14 +136,6 @@
 
 <div align="center">
 
-| Target | Direct Link / Endpoint | Protocol |
-| :--- | :--- | :--- |
-| **Email** | [`jainpallavi.delhi@gmail.com`](mailto:jainpallavi.delhi@gmail.com) | `mailto` |
-| **LinkedIn** | [`linkedin.com/in/pallavii-`](https://www.linkedin.com/in/pallavii-) | `https` |
-| **Twitter / X** | [`@Pallavi_jain06`](https://x.com/Pallavi_jain06) | `https` |
-| **Portfolio** | [`pallavijain.vercel.app`](https://pallavijain.vercel.app) | `https` |
-| **GitHub** | [`github.com/pallavithegod`](https://github.com/pallavithegod) | `https` |
-
 <br/>
 
 <a href="mailto:jainpallavi.delhi@gmail.com">
@@ -163,6 +155,7 @@
 </a>
 <br/>
 
+<br/>
 <p align="center">
   <img src="./assets/footer.svg" alt="Terminal Stream EOF Footer" width="100%" />
 </p>
