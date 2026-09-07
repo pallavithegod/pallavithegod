@@ -153,7 +153,7 @@ runtime = {
 </a>
 &nbsp;
 <a href="https://pallavijain.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-00F5FF?style=for-the-badge&logo=vercel&logoColor=black" height="36" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/Portfolio-0070F3?style=for-the-badge&logo=vercel&logoColor=white" height="36" alt="Portfolio" />
 </a>
 
 <br/><br/>
