@@ -117,7 +117,7 @@ def generate_rocket_svg(weeks, total_count, output_path="assets/contrib-rocket.s
     lines.append('<?xml version="1.0" encoding="UTF-8"?>')
     lines.append('<svg xmlns="http://www.w3.org/2000/svg" width="900" height="244" viewBox="0 0 900 244" role="img" aria-label="Contribution Activity">')
     lines.append('')
-    lines.append('  <rect width="900" height="244" fill="#0D1117"/>')
+    lines.append('  <rect x="0.5" y="0.5" width="899" height="243" rx="10" fill="#0D1117" stroke="#30363d" stroke-width="1.2"/>')
     lines.append('')
     lines.append('  <text x="22" y="34" font-family="Consolas, \'JetBrains Mono\', \'SF Mono\', Menlo, monospace" font-size="18" font-weight="700" fill="#f1f5f9">Contribution Activity</text>')
     lines.append(f'  <text x="22" y="56" font-family="Consolas, \'JetBrains Mono\', \'SF Mono\', Menlo, monospace" font-size="13.5" fill="#7d8590">{total_count} contributions in the last year</text>')
