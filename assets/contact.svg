@@ -8,7 +8,7 @@
     .dot { fill: #30363d; font-weight: 400; }
     .val { fill: #93c5fd; font-weight: 400; }
   </style>
-  <rect x="1" y="1" width="778" height="203" rx="10" fill="#0D1117" stroke="#30363d" stroke-width="1.2"/>
+  <rect width="780" height="205" fill="#0D1117"/>
   <text x="26" y="34" class="mono title">- Contact &amp; Routing</text>
   <line x1="189.8" y1="29.5" x2="754" y2="29.5" class="div-line"/>
   <text x="26" y="58" class="mono">

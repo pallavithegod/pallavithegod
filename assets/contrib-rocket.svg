@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="244" viewBox="0 0 900 244" role="img" aria-label="Contribution Activity">
 
-  <rect x="0.5" y="0.5" width="899" height="243" rx="10" fill="#0D1117" stroke="#30363d" stroke-width="1.2"/>
+  <rect width="900" height="244" fill="#0D1117"/>
 
   <text x="22" y="34" font-family="Consolas, 'JetBrains Mono', 'SF Mono', Menlo, monospace" font-size="18" font-weight="700" fill="#f1f5f9">Contribution Activity</text>
-  <text x="22" y="56" font-family="Consolas, 'JetBrains Mono', 'SF Mono', Menlo, monospace" font-size="13.5" fill="#7d8590">374 contributions in the last year</text>
+  <text x="22" y="56" font-family="Consolas, 'JetBrains Mono', 'SF Mono', Menlo, monospace" font-size="13.5" fill="#7d8590">376 contributions in the last year</text>
 
 <text x="28.0" y="76" font-family="Consolas, 'JetBrains Mono', 'SF Mono', Menlo, monospace" font-size="11" fill="#7d8590">Sep</text>
 <text x="92.0" y="76" font-family="Consolas, 'JetBrains Mono', 'SF Mono', Menlo, monospace" font-size="11" fill="#7d8590">Oct</text>
