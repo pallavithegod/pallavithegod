@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="120" viewBox="0 0 780 120" role="img" aria-label="Terminal Stream EOF Footer">
+  <style>
+    .mono { font-family: Consolas, "JetBrains Mono", "SF Mono", Menlo, ui-monospace, monospace; text-anchor: middle; }
+    .quote-1 { font-size: 13.5px; fill: #8b949e; font-weight: 400; }
+    .quote-2 { font-size: 14px; fill: #38bdf8; font-weight: 600; }
+    .prompt { font-size: 13.5px; }
+    .user { fill: #58a6ff; font-weight: 700; }
+    .dim { fill: #7d8590; }
+    .path { fill: #79c0ff; }
+    .cmd { fill: #00F5FF; font-weight: 700; }
+    .cursor { fill: #00F5FF; }
+  </style>
+  <rect width="780" height="120" fill="#0D1117"/>
+
+  <!-- Quote Lines -->
+  <text x="390" y="32" class="mono quote-1">you reached the bottom of the telemetry stream.</text>
+  <text x="390" y="56" class="mono quote-2">now go ship something that survives real load.</text>
+
+  <!-- Prompt with Flow-Positioned Blinking Cursor -->
+  <text x="390" y="94" class="mono prompt">
+    <tspan class="user">pallavithegod@github</tspan><tspan class="dim">:</tspan><tspan class="path">~</tspan><tspan class="dim">$ </tspan><tspan class="cmd">echo "EOF"</tspan><tspan class="cursor"> ▍<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.51;1" dur="1s" repeatCount="indefinite"/></tspan>
+  </text>
+</svg>

@@ -35,7 +35,7 @@
 
 </div>
 
----
+
 
 ## <code>runtime.spec()</code>
 
@@ -161,17 +161,10 @@
 <a href="https://pallavijain.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-0070F3?style=for-the-badge&logo=vercel&logoColor=white" height="36" alt="Portfolio" />
 </a>
-
-<br/><br/>
-
-```text
-  you reached the bottom of the telemetry stream.
-  now go ship something that survives real load.
-  (and yes, your database transactions probably need row-level locking).
-```
-
 <br/>
 
-<sub><code>pallavithegod@github:~$</code> <code>echo "EOF"</code> <span>&nbsp;▍</span></sub>
+<p align="center">
+  <img src="./assets/footer.svg" alt="Terminal Stream EOF Footer" width="100%" />
+</p>
 
 </div>
