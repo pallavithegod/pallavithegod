@@ -124,6 +124,9 @@ runtime = {
 </div>
 
 ---
+<p align="center">
+  <img src="./assets/contrib-rocket.svg" alt="Contribution rocket — per-commit ignition, then restore" width="100%" />
+</p>
 
 <!-- ## Live Contribution Telemetry
 
