@@ -74,7 +74,7 @@ def generate_rocket_svg(weeks, total_count, output_path="assets/contrib-rocket.s
 
     # Contribution color scale
     colors = {
-        0: "#10261f",
+        0: "#161b22",
         1: "#1a4d3c",
         2: "#1e8a62",
         3: "#2ee6a0",
@@ -117,16 +117,15 @@ def generate_rocket_svg(weeks, total_count, output_path="assets/contrib-rocket.s
     lines.append('<?xml version="1.0" encoding="UTF-8"?>')
     lines.append('<svg xmlns="http://www.w3.org/2000/svg" width="900" height="244" viewBox="0 0 900 244" role="img" aria-label="Contribution Activity">')
     lines.append('')
-    lines.append('  <rect x="0.5" y="0.5" width="899" height="243" rx="22" fill="#0a1614" stroke="#1a4f45" stroke-width="1.4"/>')
-    lines.append('  <rect x="3" y="3" width="894" height="238" rx="20" fill="none" stroke="#3dffc0" stroke-opacity="0.18"/>')
+    lines.append('  <rect x="0.5" y="0.5" width="899" height="243" rx="10" fill="#0D1117" stroke="#30363d" stroke-width="1.2"/>')
     lines.append('')
-    lines.append('  <text x="22" y="34" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="20" font-weight="600" fill="#d4fff0">Contribution Activity</text>')
-    lines.append(f'  <text x="22" y="56" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="15" fill="#7aa396">{total_count} contributions in the last year</text>')
+    lines.append('  <text x="22" y="34" font-family="Consolas, \'JetBrains Mono\', \'SF Mono\', Menlo, monospace" font-size="18" font-weight="700" fill="#f1f5f9">Contribution Activity</text>')
+    lines.append(f'  <text x="22" y="56" font-family="Consolas, \'JetBrains Mono\', \'SF Mono\', Menlo, monospace" font-size="13.5" fill="#7d8590">{total_count} contributions in the last year</text>')
     lines.append('')
 
     # Month headers
     for x_pos, m_name in month_labels:
-        lines.append(f'<text x="{x_pos:.1f}" y="76" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="11.5" fill="#3d5f56">{m_name}</text>')
+        lines.append(f'<text x="{x_pos:.1f}" y="76" font-family="Consolas, \'JetBrains Mono\', \'SF Mono\', Menlo, monospace" font-size="11" fill="#7d8590">{m_name}</text>')
 
     # Inactive background squares (always 53 weeks x 7 rows)
     num_cols = len(weeks)
@@ -134,7 +133,7 @@ def generate_rocket_svg(weeks, total_count, output_path="assets/contrib-rocket.s
         x = 28.0 + col_idx * 16.0
         for row_idx in range(7):
             y = 88.0 + row_idx * 16.0
-            lines.append(f'<rect x="{x:.1f}" y="{y:.1f}" width="12" height="12" rx="2.4" fill="#10261f"/>')
+            lines.append(f'<rect x="{x:.1f}" y="{y:.1f}" width="12" height="12" rx="2.4" fill="#161b22"/>')
 
     # Active contribution squares with ignition and restore wave
     active_dots_rect_order = sorted(active_dots, key=lambda d: (d["col_idx"], d["y"]))
@@ -179,7 +178,7 @@ def generate_rocket_svg(weeks, total_count, output_path="assets/contrib-rocket.s
         lines.append(rocket_markup)
 
     # Footer legend
-    legend = '<text x="22" y="228" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="11.5" fill="#3d5f56">Less</text><rect x="48" y="220" width="9" height="9" rx="2" fill="#10261f"/><rect x="60" y="220" width="9" height="9" rx="2" fill="#1a4d3c"/><rect x="72" y="220" width="9" height="9" rx="2" fill="#1e8a62"/><rect x="84" y="220" width="9" height="9" rx="2" fill="#2ee6a0"/><rect x="96" y="220" width="9" height="9" rx="2" fill="#8affd0"/><text x="114" y="228" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="11.5" fill="#3d5f56">More</text>'
+    legend = '<text x="22" y="228" font-family="Consolas, \'JetBrains Mono\', \'SF Mono\', Menlo, monospace" font-size="11" fill="#7d8590">Less</text><rect x="52" y="220" width="9" height="9" rx="2" fill="#161b22"/><rect x="64" y="220" width="9" height="9" rx="2" fill="#1a4d3c"/><rect x="76" y="220" width="9" height="9" rx="2" fill="#1e8a62"/><rect x="88" y="220" width="9" height="9" rx="2" fill="#2ee6a0"/><rect x="100" y="220" width="9" height="9" rx="2" fill="#8affd0"/><text x="118" y="228" font-family="Consolas, \'JetBrains Mono\', \'SF Mono\', Menlo, monospace" font-size="11" fill="#7d8590">More</text>'
     lines.append(legend)
     lines.append('</svg>')
 

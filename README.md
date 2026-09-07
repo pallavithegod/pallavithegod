@@ -52,7 +52,7 @@
 └───────────────────────────────────── [STATUS: DETERMINISTIC] ─┘
 ```
 
----
+<br/>
 
 ## <code>tech.arsenal</code>
 
@@ -64,7 +64,7 @@
 
 </div>
 
----
+<br/>
 
 ## <code>featured.systems</code>
 
@@ -116,14 +116,13 @@
 
 </div>
 
----
+<br/>
+
 <p align="center">
   <img src="./assets/contrib-rocket.svg" alt="Contribution rocket — per-commit ignition, then restore" width="100%" />
 </p>
 
-
-
----
+<br/>
 
 ## <code>network.connect()</code>
 

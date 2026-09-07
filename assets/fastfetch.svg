@@ -1,21 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="780" height="385" viewBox="0 0 780 385">
-  <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#0a1017"/>
-      <stop offset="100%" stop-color="#060a0f"/>
-    </linearGradient>
-  </defs>
   <style>
     .mono { font-family: Consolas, "JetBrains Mono", "SF Mono", Menlo, ui-monospace, monospace; font-size: 13.5px; }
     .title { fill: #f1f5f9; font-weight: 700; }
-    .div-line { stroke: #1e293b; stroke-width: 1; }
+    .div-line { stroke: #30363d; stroke-width: 1; }
     .label { fill: #f59e0b; font-weight: 600; }
-    .dot { fill: #334155; font-weight: 400; }
+    .dot { fill: #30363d; font-weight: 400; }
     .val { fill: #93c5fd; font-weight: 400; }
     .val-white { fill: #f8fafc; font-weight: 500; }
   </style>
-  <rect x="1" y="1" width="778" height="383" rx="10" fill="url(#bg)" stroke="#1e293b" stroke-width="1.2"/>
+  <rect x="1" y="1" width="778" height="383" rx="10" fill="#0D1117" stroke="#30363d" stroke-width="1.2"/>
   <text x="26" y="34" class="mono title">Pallavi@Jain</text>
   <line x1="132.4" y1="29.5" x2="754" y2="29.5" class="div-line"/>
   <text x="26" y="55" class="mono">
@@ -74,7 +68,7 @@
     <tspan class="label">. Repos: </tspan>
     <tspan class="dot">................................ </tspan>
     <tspan class="val-white">25</tspan>
-    <tspan fill="#334155">  |  </tspan>
+    <tspan fill="#30363d">  |  </tspan>
     <tspan class="label">. Stars: </tspan>
     <tspan class="dot">................................ </tspan>
     <tspan class="val-white">22</tspan>
@@ -83,7 +77,7 @@
     <tspan class="label">. Contributions: </tspan>
     <tspan class="dot">....................... </tspan>
     <tspan class="val-white">371</tspan>
-    <tspan fill="#334155">  |  </tspan>
+    <tspan fill="#30363d">  |  </tspan>
     <tspan class="label">. Followers: </tspan>
     <tspan class="dot">............................. </tspan>
     <tspan class="val-white">2</tspan>
