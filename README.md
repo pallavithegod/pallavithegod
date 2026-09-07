@@ -37,31 +37,24 @@
 
 ---
 
-## runtime.spec()
+## <code>runtime.spec()</code>
 
-```python
-runtime = {
-  "engineer":  "Pallavi Jain",
-  "domain":    "Backend Infrastructure & Multi-Agent Pipelines",
-  "location":  "Delhi, India",
-  "stack":     ["Node.js", "FastAPI", "Docker", "AWS", "Azure ACA", "MySQL"],
-  "motto":     "Ship resilient systems that survive real traffic, zero demo fluff",
-  "telemetry": "373 commits / yr • 25 public repos • 0 downtime",
-  "status":    "open to backend & AI-agent roles",
-}
-```
+<p align="center">
+  <img src="./assets/fastfetch.svg" alt="Pallavi@Jain Fastfetch Telemetry" width="100%" />
+</p>
 
 ```text
-┌─── [SYS_DIAGNOSTIC] ──────────────────────────────────────────────────────────┐
-│  Superpower  : Turning chaotic distributed edge-cases into deterministic APIs │
-│  Nemesis     : Race conditions & unhandled promise rejections                 │
-│  Philosophy  : If it fails under real traffic, it's a demo, not a backend     │
-└───────────────────────────────────────────────────────────────────────────────┘
+┌─── [SYS_DIAGNOSTIC] ──────────────────────────────────────────┐
+│ . Superpower: ........ Turning chaotic edge-cases into APIs   │
+│ . Nemesis: ........... Race conditions & unhandled promises   │
+│ . Philosophy: ........ If it fails under load, it's a demo    │
+│ . Architecture: ...... Strict ACID isolation & zero downtime  │
+└───────────────────────────────────── [STATUS: DETERMINISTIC] ─┘
 ```
 
 ---
 
-## Tech Arsenal
+## <code>tech.arsenal</code>
 
 <div align="center">
 
@@ -73,13 +66,13 @@ runtime = {
 
 ---
 
-## Featured Systems
+## <code>featured.systems</code>
 
 <table align="center" width="100%">
 <tr>
 <td width="33%" valign="top">
 
-### [RecallOps](https://github.com/pallavithegod/ima-agent-backend-node)
+### <code><a href="https://github.com/pallavithegod/ima-agent-backend-node">RecallOps</a></code>
 > **Autonomous Deployment & Vault Engine**
 - Credential vault encrypting user tokens with **AES-256-GCM** before persistent storage.
 - Auto-polls GitHub, Vercel & Render; diagnoses failed traces and triggers self-healing tasks.
@@ -90,7 +83,7 @@ runtime = {
 </td>
 <td width="33%" valign="top">
 
-### [Research Agent](https://github.com/pallavithegod/research-agent)
+### <code><a href="https://github.com/pallavithegod/research-agent">Research Agent</a></code>
 > **x402-Native Evidence Pipeline**
 - **Quick**, **Deep**, and **Compare** modes with source-policy enforcement and automated evidence confidence scoring.
 - Asynchronous FastAPI backend paired with analytical Next.js dashboard.
@@ -101,7 +94,7 @@ runtime = {
 </td>
 <td width="33%" valign="top">
 
-### [CommitVault](https://github.com/pallavithegod/CommitVault-Backend)
+### <code><a href="https://github.com/pallavithegod/CommitVault-Backend">CommitVault</a></code>
 > **High-Concurrency Banking Server**
 - Enterprise SQL integrity: correlated subqueries, atomic balance transfer stored procedures.
 - Row-level locking inside strict **ACID transactions** with automated account audit triggers.
@@ -128,15 +121,15 @@ runtime = {
   <img src="./assets/contrib-rocket.svg" alt="Contribution rocket — per-commit ignition, then restore" width="100%" />
 </p>
 
-<!-- ## Live Contribution Telemetry
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/pallavithegod/pallavithegod/main/assets/terminal-contributions.svg?v=3" alt="Terminal Activity Telemetry &amp; Contribution Radar" width="100%" />
-</p> -->
 
 ---
 
-## Let's Connect
+## <code>network.connect()</code>
+
+<p align="center">
+  <img src="./assets/contact.svg" alt="Contact &amp; Routing Telemetry" width="100%" />
+</p>
 
 <div align="center">
 
