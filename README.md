@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 3D ASCII Wordmark Header Banner -->
-<img src="https://raw.githubusercontent.com/pallavithegod/pallavithegod/main/assets/final-pallavi.svg" alt="3D ASCII Wordmark: PALLAVI JAIN" width="100%" />
+<img src="./assets/final-pallavi.svg" alt="3D ASCII Wordmark: PALLAVI JAIN" width="100%" />
 
 <br/>
 
