@@ -43,14 +43,9 @@
   <img src="./assets/fastfetch.svg" alt="Pallavi@Jain Fastfetch Telemetry" width="100%" />
 </p>
 
-```text
-┌─── [SYS_DIAGNOSTIC] ──────────────────────────────────────────┐
-│ . Superpower: ........ Turning chaotic edge-cases into APIs   │
-│ . Nemesis: ........... Race conditions & unhandled promises   │
-│ . Philosophy: ........ If it fails under load, it's a demo    │
-│ . Architecture: ...... Strict ACID isolation & zero downtime  │
-└───────────────────────────────────── [STATUS: DETERMINISTIC] ─┘
-```
+<p align="center">
+  <img src="./assets/sys-diagnostic.svg" alt="System Diagnostic &amp; Streak Telemetry" width="100%" />
+</p>
 
 <br/>
 

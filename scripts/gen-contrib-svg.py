@@ -191,6 +191,59 @@ def generate_rocket_svg(weeks, total_count, output_path="assets/contrib-rocket.s
     ET.parse(output_path)
     print(f"Generated and validated {output_path} successfully ({len(lines)} lines).")
 
+def update_sys_diagnostic_streak(weeks, total_count, target_path="assets/sys-diagnostic.svg"):
+    if not os.path.exists(target_path):
+        return
+    days = [d for w in weeks for d in w]
+    days = sorted(days, key=lambda x: x["date"])
+    
+    longest = 0
+    cur = 0
+    temp = 0
+    for d in days:
+        if d["level"] > 0:
+            temp += 1
+            if temp > longest:
+                longest = temp
+        else:
+            temp = 0
+            
+    for d in reversed(days):
+        if d["level"] > 0:
+            cur += 1
+        else:
+            if cur == 0 and len(days) > 1 and days[-2]["level"] > 0:
+                for prev in reversed(days[:-1]):
+                    if prev["level"] > 0:
+                        cur += 1
+                    else:
+                        break
+            break
+
+    with open(target_path, "r", encoding="utf-8") as f:
+        svg_content = f.read()
+
+    svg_content = re.sub(
+        r'(<text x="0" y="24" class="mono stat-val" text-anchor="middle">)\d+(</text>\s*<text[^>]*>Total Contributions)',
+        rf'\g<1>{total_count}\g<2>',
+        svg_content
+    )
+    svg_content = re.sub(
+        r'(<text x="0" y="55" class="mono flame-val" text-anchor="middle">)\d+(</text>\s*<text[^>]*>Current Streak)',
+        rf'\g<1>{cur}\g<2>',
+        svg_content
+    )
+    svg_content = re.sub(
+        r'(<text x="0" y="24" class="mono stat-val" text-anchor="middle">)\d+(</text>\s*<text[^>]*>Longest Streak)',
+        rf'\g<1>{longest}\g<2>',
+        svg_content
+    )
+
+    with open(target_path, "w", encoding="utf-8") as f:
+        f.write(svg_content)
+    ET.parse(target_path)
+    print(f"Updated {target_path}: Total={total_count}, Current Streak={cur}, Longest Streak={longest}")
+
 if __name__ == "__main__":
     target_user = sys.argv[1] if len(sys.argv) > 1 else os.getenv("GH_USERNAME", "pallavithegod")
     target_file = sys.argv[2] if len(sys.argv) > 2 else "assets/contrib-rocket.svg"
@@ -198,3 +251,5 @@ if __name__ == "__main__":
     weeks_data, count_str = fetch_contributions(target_user)
     print(f"Extracted {len(weeks_data)} weeks of activity. Total count: {count_str}")
     generate_rocket_svg(weeks_data, count_str, target_file)
+    update_sys_diagnostic_streak(weeks_data, count_str)
+

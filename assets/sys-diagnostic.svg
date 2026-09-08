@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="295" viewBox="0 0 780 295" role="img" aria-label="System Diagnostics and Streak Telemetry">
+  <style>
+    .mono { font-family: Consolas, "JetBrains Mono", "SF Mono", Menlo, ui-monospace, monospace; }
+    .header-title { font-size: 13.5px; font-weight: 700; fill: #f1f5f9; }
+    .tag { font-size: 11.5px; font-weight: 700; fill: #00F5FF; }
+    .label { font-size: 13px; font-weight: 600; fill: #f59e0b; }
+    .dot { font-size: 13px; fill: #30363d; }
+    .val { font-size: 13px; fill: #93c5fd; }
+    .div-line { stroke: #30363d; stroke-width: 1; }
+    .accent-blue { fill: #58a6ff; }
+    .dim { fill: #7d8590; }
+    .stat-val { font-size: 24px; font-weight: 700; fill: #f8fafc; }
+    .stat-label { font-size: 11.5px; fill: #8b949e; }
+    .flame-val { font-size: 22px; font-weight: 700; fill: #f0883e; }
+  </style>
+  <rect width="780" height="295" fill="#0D1117"/>
+
+  <!-- Top Section: Real-World Developer SYS_DIAGNOSTIC Telemetry -->
+  <text x="26" y="28" class="mono header-title">SYS_DIAGNOSTIC <tspan class="dim">//</tspan> <tspan class="tag">RUNTIME_INVARIANTS</tspan></text>
+  <line x1="26" y1="36" x2="754" y2="36" class="div-line"/>
+
+  <text x="26" y="58" class="mono">
+    <tspan class="label">. Concurrency: </tspan>
+    <tspan class="dot">........................ </tspan>
+    <tspan class="val">Non-blocking async I/O &#183; libuv event loops &#183; worker pools</tspan>
+  </text>
+  <text x="26" y="79" class="mono">
+    <tspan class="label">. Data Integrity: </tspan>
+    <tspan class="dot">..................... </tspan>
+    <tspan class="val">Strict ACID isolation &#183; row-level locking &#183; idempotent retries</tspan>
+  </text>
+  <text x="26" y="100" class="mono">
+    <tspan class="label">. Telemetry SLA: </tspan>
+    <tspan class="dot">...................... </tspan>
+    <tspan class="val">Target p99 &lt; 50ms &#183; zero unindexed scans &#183; sub-ms Redis cache</tspan>
+  </text>
+  <text x="26" y="121" class="mono">
+    <tspan class="label">. Guardrails: </tspan>
+    <tspan class="dot">.......................... </tspan>
+    <tspan class="val">Circuit breakers &#183; structured JSON traces &#183; dead-letter queues</tspan>
+  </text>
+
+  <!-- Divider Line -->
+  <line x1="26" y1="142" x2="754" y2="142" class="div-line"/>
+
+  <!-- Bottom Section: GitHub Streak Telemetry Component (Exact Screenshot Reference) -->
+  <g transform="translate(0, 148)">
+    <!-- Column 1: Screenshot ASCII Streak Logo -->
+    <g transform="translate(90, 42)">
+      <text x="0" y="0" class="mono accent-blue" font-size="13" text-anchor="middle" letter-spacing="2">&#x2591;&#x2592;&#x2593;&#x2588;&#x2593;&#x2592;&#x2591;</text>
+      <text x="0" y="22" class="mono accent-blue" font-size="16" font-weight="700" text-anchor="middle" letter-spacing="1">GITHUB</text>
+      <text x="0" y="42" class="mono accent-blue" font-size="16" font-weight="700" text-anchor="middle" letter-spacing="1">STREAK</text>
+      <text x="0" y="60" class="mono dim" font-size="11" text-anchor="middle">@pallavithegod</text>
+    </g>
+
+    <!-- Vertical separator line -->
+    <line x1="185" y1="15" x2="185" y2="125" class="div-line"/>
+
+    <!-- Column 2: Total Contributions -->
+    <g transform="translate(280, 48)">
+      <text x="0" y="24" class="mono stat-val" text-anchor="middle">384</text>
+      <text x="0" y="48" class="mono stat-label" text-anchor="middle">Total Contributions</text>
+      <text x="0" y="66" class="mono dim" font-size="10" text-anchor="middle">Sep 7, 2025 - Present</text>
+    </g>
+
+    <!-- Dashed separator line -->
+    <line x1="375" y1="22" x2="375" y2="118" class="div-line" stroke-dasharray="3,3"/>
+
+    <!-- Column 3: Current Streak with Flame Badge -->
+    <g transform="translate(470, 20)">
+      <!-- Flame icon on top of circular ring -->
+      <path d="M0,0 C4.7,7.3 7.3,14.7 5.2,21 C0,24.1 -5.2,21 -7.3,14.7 C-4.7,7.3 0,0 0,0 Z" fill="#f0883e"/>
+      <circle cx="0" cy="48" r="28" fill="none" stroke="#f0883e" stroke-width="2"/>
+      <text x="0" y="55" class="mono flame-val" text-anchor="middle">10</text>
+      <text x="0" y="90" class="mono stat-label" text-anchor="middle">Current Streak</text>
+      <text x="0" y="106" class="mono dim" font-size="10" text-anchor="middle">Active Today</text>
+    </g>
+
+    <!-- Dashed separator line -->
+    <line x1="565" y1="22" x2="565" y2="118" class="div-line" stroke-dasharray="3,3"/>
+
+    <!-- Column 4: Longest Streak -->
+    <g transform="translate(660, 48)">
+      <text x="0" y="24" class="mono stat-val" text-anchor="middle">10</text>
+      <text x="0" y="48" class="mono stat-label" text-anchor="middle">Longest Streak</text>
+      <text x="0" y="66" class="mono dim" font-size="10" text-anchor="middle">Personal Best</text>
+    </g>
+  </g>
+</svg>
