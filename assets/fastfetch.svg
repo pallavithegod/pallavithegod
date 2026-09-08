@@ -5,6 +5,7 @@
     .title { fill: #f1f5f9; font-weight: 700; }
     .div-line { stroke: #30363d; stroke-width: 1; }
     .label { fill: #f59e0b; font-weight: 600; }
+    .colon { fill: #ffffff; font-weight: 600; }
     .dot { fill: #30363d; font-weight: 400; }
     .val { fill: #93c5fd; font-weight: 400; }
     .val-white { fill: #f8fafc; font-weight: 500; }
@@ -13,77 +14,77 @@
   <text x="26" y="34" class="mono title">Pallavi@Jain</text>
   <line x1="132.4" y1="29.5" x2="754" y2="29.5" class="div-line"/>
   <text x="26" y="55" class="mono">
-    <tspan class="label">. OS: </tspan>
+    <tspan class="label">. OS</tspan><tspan class="colon">:</tspan> 
     <tspan class="dot">...................................................... </tspan>
     <tspan class="val">GitHub profile / Linux x86_64</tspan>
   </text>
   <text x="26" y="76" class="mono">
-    <tspan class="label">. Status: </tspan>
+    <tspan class="label">. Status</tspan><tspan class="colon">:</tspan> 
     <tspan class="dot">.................................................... </tspan>
     <tspan class="val">371 contributions this year</tspan>
   </text>
   <text x="26" y="97" class="mono">
-    <tspan class="label">. Host: </tspan>
+    <tspan class="label">. Host</tspan><tspan class="colon">:</tspan> 
     <tspan class="dot">...................................................... </tspan>
     <tspan class="val">Open source cloud ecosystem</tspan>
   </text>
   <text x="26" y="118" class="mono">
-    <tspan class="label">. Kernel: </tspan>
+    <tspan class="label">. Kernel</tspan><tspan class="colon">:</tspan> 
     <tspan class="dot">....................................................... </tspan>
     <tspan class="val">Node.js, FastAPI, Docker</tspan>
   </text>
   <text x="26" y="139" class="mono">
-    <tspan class="label">. IDE: </tspan>
+    <tspan class="label">. IDE</tspan><tspan class="colon">:</tspan> 
     <tspan class="dot">........................................................ </tspan>
     <tspan class="val">VS Code, Neovim, JetBrains</tspan>
   </text>
   <text x="26" y="168.4" class="mono">
-    <tspan class="label">. Languages.Programming: </tspan>
+    <tspan class="label">. Languages.Programming</tspan><tspan class="colon">:</tspan> 
     <tspan class="dot">............................. </tspan>
     <tspan class="val">Python, TypeScript, JavaScript, SQL</tspan>
   </text>
   <text x="26" y="189.4" class="mono">
-    <tspan class="label">. Languages.Frameworks: </tspan>
+    <tspan class="label">. Languages.Frameworks</tspan><tspan class="colon">:</tspan> 
     <tspan class="dot">..................................... </tspan>
     <tspan class="val">FastAPI, Express.js, Node.js</tspan>
   </text>
   <text x="26" y="210.4" class="mono">
-    <tspan class="label">. Languages.Storage: </tspan>
+    <tspan class="label">. Languages.Storage</tspan><tspan class="colon">:</tspan> 
     <tspan class="dot">........................................ </tspan>
     <tspan class="val">MySQL (ACID), MongoDB, Redis</tspan>
   </text>
   <text x="26" y="231.4" class="mono">
-    <tspan class="label">. Infrastructure.Cloud: </tspan>
+    <tspan class="label">. Infrastructure.Cloud</tspan><tspan class="colon">:</tspan> 
     <tspan class="dot">................................. </tspan>
     <tspan class="val">Docker, AWS, Azure ACA, Firebase</tspan>
   </text>
   <text x="26" y="252.4" class="mono">
-    <tspan class="label">. Specialty: </tspan>
+    <tspan class="label">. Specialty</tspan><tspan class="colon">:</tspan> 
     <tspan class="dot">................................. </tspan>
     <tspan class="val">Distributed systems &amp; multi-agent pipelines</tspan>
   </text>
   <text x="26" y="281.79999999999995" class="mono title">- GitHub Stats</text>
   <line x1="148.8" y1="277.3" x2="754" y2="277.3" class="div-line"/>
   <text x="26" y="302.79999999999995" class="mono">
-    <tspan class="label">. Repos: </tspan>
+    <tspan class="label">. Repos</tspan><tspan class="colon">:</tspan> 
     <tspan class="dot">................................ </tspan>
     <tspan class="val-white">25</tspan>
     <tspan fill="#30363d">  |  </tspan>
-    <tspan class="label">. Stars: </tspan>
+    <tspan class="label">. Stars</tspan><tspan class="colon">:</tspan> 
     <tspan class="dot">................................ </tspan>
     <tspan class="val-white">22</tspan>
   </text>
   <text x="26" y="323.79999999999995" class="mono">
-    <tspan class="label">. Contributions: </tspan>
+    <tspan class="label">. Contributions</tspan><tspan class="colon">:</tspan> 
     <tspan class="dot">....................... </tspan>
     <tspan class="val-white">371</tspan>
     <tspan fill="#30363d">  |  </tspan>
-    <tspan class="label">. Followers: </tspan>
+    <tspan class="label">. Followers</tspan><tspan class="colon">:</tspan> 
     <tspan class="dot">............................. </tspan>
     <tspan class="val-white">2</tspan>
   </text>
   <text x="26" y="344.79999999999995" class="mono">
-    <tspan class="label">. Languages on GitHub: </tspan>
+    <tspan class="label">. Languages on GitHub</tspan><tspan class="colon">:</tspan> 
     <tspan class="dot">............................... </tspan>
     <tspan class="val">Python, TypeScript, JavaScript, SQL</tspan>
   </text>
