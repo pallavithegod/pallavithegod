@@ -121,7 +121,7 @@
 
 ## <code>network.connect()</code>
 
-<h3><pre><code>- Contact &amp; Routing -------------------------------------------------------------
+<h3><pre><code>- CONTACT &amp; ROUTING -------------------------------------------------------------
 <b>. Email: </b>............................................ <a href="mailto:jainpallavi.delhi@gmail.com">jainpallavi.delhi@gmail.com</a>
 <b>. LinkedIn: </b>......................................... <a href="https://www.linkedin.com/in/pallavii-">linkedin.com/in/pallavii-</a>
 <b>. Twitter / X: </b>...................................... <a href="https://x.com/Pallavi_jain06">@Pallavi_jain06</a>
