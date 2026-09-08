@@ -59,7 +59,7 @@
 <div align="center">
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,express,fastapi,docker,aws,azure,mysql,mongodb,git&theme=dark&perline=12" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,rust,nodejs,express,fastapi,react,nextjs,postgres,mysql,mongodb,redis,firebase,docker,aws,azure,linux,git,postman,vercel,tailwind&theme=dark&perline=11" alt="Tech Stack" />
 </a>
 
 </div>
