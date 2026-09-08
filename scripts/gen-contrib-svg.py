@@ -224,17 +224,17 @@ def update_sys_diagnostic_streak(weeks, total_count, target_path="assets/sys-dia
         svg_content = f.read()
 
     svg_content = re.sub(
-        r'(<text x="0" y="24" class="mono stat-val" text-anchor="middle">)\d+(</text>\s*<text[^>]*>Total Contributions)',
+        r'(<text[^>]*class="mono stat-val"[^>]*>)\d+(</text>\s*<text[^>]*>Total Contributions)',
         rf'\g<1>{total_count}\g<2>',
         svg_content
     )
     svg_content = re.sub(
-        r'(<text x="0" y="55" class="mono flame-val" text-anchor="middle">)\d+(</text>\s*<text[^>]*>Current Streak)',
+        r'(<text[^>]*class="mono flame-val"[^>]*>)\d+(</text>)',
         rf'\g<1>{cur}\g<2>',
         svg_content
     )
     svg_content = re.sub(
-        r'(<text x="0" y="24" class="mono stat-val" text-anchor="middle">)\d+(</text>\s*<text[^>]*>Longest Streak)',
+        r'(<text[^>]*class="mono stat-val"[^>]*>)\d+(</text>\s*<text[^>]*>Longest Streak)',
         rf'\g<1>{longest}\g<2>',
         svg_content
     )
