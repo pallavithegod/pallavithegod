@@ -121,13 +121,13 @@
 
 ## <code>network.connect()</code>
 
-<pre><code>- Contact &amp; Routing -------------------------------------------------------------
-<b>. Email: </b>............................ <a href="mailto:jainpallavi.delhi@gmail.com">jainpallavi.delhi@gmail.com</a>
-<b>. LinkedIn: </b>......................... <a href="https://www.linkedin.com/in/pallavii-">linkedin.com/in/pallavii-</a>
-<b>. Twitter / X: </b>...................... <a href="https://x.com/Pallavi_jain06">@Pallavi_jain06</a>
-<b>. Website: </b>.......................... <a href="https://pallavijain.vercel.app">pallavijain.vercel.app</a>
-<b>. GitHub: </b>........................... <a href="https://github.com/pallavithegod">github.com/pallavithegod</a>
-<b>. Location: </b>......................... Delhi, IN (IST / Remote)</code></pre>
+<h3><pre><code>- Contact &amp; Routing -------------------------------------------------------------
+<b>. Email: </b>............................................ <a href="mailto:jainpallavi.delhi@gmail.com">jainpallavi.delhi@gmail.com</a>
+<b>. LinkedIn: </b>......................................... <a href="https://www.linkedin.com/in/pallavii-">linkedin.com/in/pallavii-</a>
+<b>. Twitter / X: </b>...................................... <a href="https://x.com/Pallavi_jain06">@Pallavi_jain06</a>
+<b>. Website: </b>.......................................... <a href="https://pallavijain.vercel.app">pallavijain.vercel.app</a>
+<b>. GitHub: </b>........................................... <a href="https://github.com/pallavithegod">github.com/pallavithegod</a>
+<b>. Location: </b>......................................... Delhi, IN (IST / Remote)</code></pre></h3>
 
 <div align="center">
 
