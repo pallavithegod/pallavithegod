@@ -57,7 +57,7 @@
     <line x1="208" y1="160" x2="208" y2="276" class="div-line"/>
 
     <!-- Column 2: Total Contributions (Center x = 299) -->
-    <text x="299" y="210" class="mono stat-val" text-anchor="middle">407</text>
+    <text x="299" y="210" class="mono stat-val" text-anchor="middle">410</text>
     <text x="299" y="246" class="mono stat-label" text-anchor="middle">Total Contributions</text>
     <text x="299" y="264" class="mono dim" font-size="10" text-anchor="middle">Sep 7, 2025 - Present</text>
 
