@@ -57,7 +57,7 @@
     <line x1="208" y1="160" x2="208" y2="276" class="div-line"/>
 
     <!-- Column 2: Total Contributions (Center x = 299) -->
-    <text x="299" y="210" class="mono stat-val" text-anchor="middle">410</text>
+    <text x="299" y="210" class="mono stat-val" text-anchor="middle">411</text>
     <text x="299" y="246" class="mono stat-label" text-anchor="middle">Total Contributions</text>
     <text x="299" y="264" class="mono dim" font-size="10" text-anchor="middle">Sep 7, 2025 - Present</text>
 
@@ -68,7 +68,7 @@
     <g transform="translate(481, 202)">
       <path d="M0,-41 C3.7,-35.2 5.8,-29.4 4.1,-24.4 C0,-21.9 -4.1,-24.4 -5.8,-29.4 C-3.7,-35.2 0,-41 0,-41 Z" fill="#f0883e"/>
       <circle cx="0" cy="0" r="26" fill="none" stroke="#f0883e" stroke-width="2"/>
-      <text x="0" y="8" class="mono flame-val" text-anchor="middle">11</text>
+      <text x="0" y="8" class="mono flame-val" text-anchor="middle">12</text>
     </g>
     <text x="481" y="246" class="mono stat-label" text-anchor="middle">Current Streak</text>
     <text x="481" y="264" class="mono dim" font-size="10" text-anchor="middle">Active Today</text>
@@ -77,7 +77,7 @@
     <line x1="572" y1="160" x2="572" y2="276" class="div-line" stroke-dasharray="3,3"/>
 
     <!-- Column 4: Longest Streak (Center x = 663) -->
-    <text x="663" y="210" class="mono stat-val" text-anchor="middle">11</text>
+    <text x="663" y="210" class="mono stat-val" text-anchor="middle">12</text>
     <text x="663" y="246" class="mono stat-label" text-anchor="middle">Longest Streak</text>
     <text x="663" y="264" class="mono dim" font-size="10" text-anchor="middle">Personal Best</text>
   </g>
